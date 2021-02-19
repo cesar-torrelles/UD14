@@ -12,7 +12,7 @@
 
 12 ejercicios  relacionados con:
 ```
-Lenguaje de definicion de datos - DDL
+Lenguaje de definicion de datos - DDL - MySQL
 ```
 CC21_REUS_JavaAngular_2
 
