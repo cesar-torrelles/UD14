@@ -11,7 +11,9 @@
 ###   2. Descripción
 
 12 ejercicios  relacionados con:
+```
 Lenguaje de definicion de datos - DDL
+```
 CC21_REUS_JavaAngular_2
 
 ###  3. Link a un demo con el proyecto desplegado:
