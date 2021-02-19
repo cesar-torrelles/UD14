@@ -27,8 +27,8 @@ https://github.com/VyacheslavKhaydorov/JavaAngular_Unidad14.git
 ```
 ###   4. Lista de herramientas para poder ejecutarlo:
 ```
-MySQL  Server
-MySQL Workbench
+MySQL  Server 8.0
+MySQL Workbench 8.0
 ```
 
 
