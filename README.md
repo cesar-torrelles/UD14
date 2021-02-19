@@ -26,6 +26,6 @@ https://github.com/cesar-torrelles/UD14.git
 MySQL  Server
 MySQL Workbench
 ```
-//###  5. Screenshot imagen que indique cómo debe verse el proyecto.
+
 
 
