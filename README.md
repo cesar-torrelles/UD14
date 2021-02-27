@@ -20,9 +20,9 @@ CC21_REUS_JavaAngular_2
 
 Se puede acceder al repositorio de los ejercicios por medio de cualquiera de los links siguientes:
 ```
-https://github.com/idominguez25/JavaAngular_Unidad14.git
+
 https://github.com/cesar-torrelles/UD14.git
-https://github.com/VyacheslavKhaydorov/JavaAngular_Unidad14.git
+
 
 ```
 ###   4. Lista de herramientas para poder ejecutarlo:
